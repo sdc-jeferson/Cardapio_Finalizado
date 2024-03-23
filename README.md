@@ -1,6 +1,6 @@
 <h1 align="center">Cardapio</h1>
 
-  🌎 Result Preview: [Veja o Projeto]()
+  🌎 Result Preview: [Veja o Projeto](https://cardapio-finalizado.vercel.app/)
 </div>
 
 ---
