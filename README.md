@@ -1,4 +1,4 @@
-<h1 align="center">Cardapio</h1>
+<h1 text-align="center">Cardapio</h1>
 
   🌎 Result Preview: [Veja o Projeto](https://cardapio-finalizado.vercel.app/)
 </div>
@@ -6,19 +6,24 @@
 ---
 
 <P text-align="center">Imagens do Projeto
-<img src=".github/Home.png" alt="imagem de home page do cardapio"/>
-<img src=".github/Mobile.png" alt="imagem de home page do cardapio mobile"/>
-<img src=".github/Mockup.png" alt="imagem do modal mobile"/>
-
+  <img src=".github/Home.png" alt="imagem de home page do cardapio"/> 
+  <br/>
+  <br/>
+  <br/>
+  <img src=".github/Mockup1.png" alt="imagem de home page do cardapio mobile"/>
+  <img src=".github/Mockup.png" alt="imagem do modal mobile"/>
 </P>
 
 ---
 ## 💻 Projeto - Cardapio com JS
 <p>
-Projeto realizado para fins de testes com as tecnologias abaixo
+Projeto realizado com o Youtuber Sujeiro Programador com finalidades de testar os conhecimento nas linguagens HTML ,CSS, JS e TAILWIND.
 </p>
 
-## 🧪 Tecnologias | HTML ,CSS, JS e TAILWIND.
+## 🧪 Tecnologias | 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ---
 - Mobile First
 - Unidade de medida flexível
