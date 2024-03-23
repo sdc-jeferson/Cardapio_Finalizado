@@ -5,6 +5,14 @@
 
 ---
 
+<P text-align="center">Imagens do Projeto
+<img src=".github/Home.png" alt="imagem de home page do cardapio"/>
+<img src=".github/Mobile.png" alt="imagem de home page do cardapio mobile"/>
+<img src=".github/Mockup.png" alt="imagem do modal mobile"/>
+
+</P>
+
+---
 ## 💻 Projeto - Cardapio com JS
 <p>
 Projeto realizado para fins de testes com as tecnologias abaixo
